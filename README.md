@@ -6,7 +6,7 @@ Example introduction
 
 intro goes here
 
-![Confetti](github.com/jwunderl/pxt-test-user-tutorial/blob/master/confetti.png?raw=true)
+![cat](https://giphy.com/embed/1iu8uG2cjYFZS6wTxv)
 
 ## task1 @fullscreen
 
