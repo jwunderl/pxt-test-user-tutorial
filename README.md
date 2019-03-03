@@ -6,6 +6,8 @@ Example introduction
 
 intro goes here
 
+![Confetti](confetti.png)
+
 ## task1 @fullscreen
 
 ```blocks
