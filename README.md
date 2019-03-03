@@ -6,7 +6,7 @@ Example introduction
 
 intro goes here
 
-![Confetti](https://github.com/jwunderl/pxt-test-user-tutorial/blob/master/confetti.png)
+![Confetti](github.com/jwunderl/pxt-test-user-tutorial/blob/master/confetti.png?raw=true)
 
 ## task1 @fullscreen
 
