@@ -6,7 +6,7 @@ Example introduction
 
 intro goes here
 
-![cat](https://giphy.com/gifs/kitty-smart-1iu8uG2cjYFZS6wTxv?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=)
+![cat](https://66.media.tumblr.com/c0bb42e8975e48661705122c19e7aba4/tumblr_oq0h08BNZs1tv1bhvo1_400.gif)
 
 ## task1 @fullscreen
 
