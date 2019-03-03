@@ -6,7 +6,7 @@ Example introduction
 
 intro goes here
 
-![Confetti](confetti.png)
+![Confetti](./confetti.png)
 
 ## task1 @fullscreen
 
